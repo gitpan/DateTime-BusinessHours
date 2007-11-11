@@ -1,5 +1,8 @@
-mRevision history for BusinessHours
+Revision history for DateTime-BusinessHours
 
-1.0	DateTime::BusinessHours
+1.01	Added holidays arrayref
+	Changed holidaysfile date format to yyyy-mm-dd
+
+1.0    Date/time
         First version.
 

@@ -4,7 +4,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     NAME                => 'DateTime::BusinessHours',
-    AUTHOR              => 'Antano Solar John <solar345@gmail.com>',
+    AUTHOR              => 'Antano Solar <solar345@gmail.com>',
     VERSION_FROM        => 'lib/DateTime/BusinessHours.pm',
     ABSTRACT_FROM       => 'lib/DateTime/BusinessHours.pm',
     PL_FILES            => {},
