@@ -21,4 +21,5 @@ requires:
   Class::MethodMaker: 0
   DateTime: 0
   Test::More: 0
-version: 2.00
+  perl: 5.008001
+version: 2.01
