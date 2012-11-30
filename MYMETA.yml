@@ -22,4 +22,4 @@ requires:
   DateTime: 0
   Test::More: 0
   perl: 5.008001
-version: 2.01
+version: 2.02
